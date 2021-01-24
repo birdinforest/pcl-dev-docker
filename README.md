@@ -3,8 +3,9 @@
 
 ### Compiled image 
 
-[Docker Hub] ()
-[Docker file] (./docker/compiled-image)
+[Docker Hub]()
+
+[Docker file](./docker/compiled-image)
 
 This image is based on Ubuntu 20.04 and some main libraries are latest version and compiled by
 source code. it has the following packages installed:
@@ -22,6 +23,7 @@ source code. it has the following packages installed:
 ### Minimum image
 
 [Docker Hub](https://hub.docker.com/repository/docker/redwoodteq/pcl-docker-dev-minimum)
+
 [Docker file](./docker/minimum-image)
 
 This image is based on Ubuntu 20.04 and main libraries are installed via APT. Their versions are locked.
