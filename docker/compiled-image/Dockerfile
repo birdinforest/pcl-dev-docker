@@ -4,9 +4,7 @@
 # To configure ssh remote dev by CLion, reference to: https://austinmorlan.com/posts/docker_clion_development/
 
 # ======== Packages ========
-# CUDA-10.2.89
-# nvidia-docker
-# CMake-3.10.2
+# CMake-3.19.2
 # VTK-8.2.0
 # PCL-1.11.0
 # OpenCV-4.4.0
